@@ -115,6 +115,10 @@ The following data cleaning steps were performed:
 
 ![Heatmap](images/Heatmap%20Category%20Vs%20Month.png)
 
+
+![DashboardPowerBi] (<img width="1358" height="822" alt="image" src="https://github.com/user-attachments/assets/83e889bc-e29c-43c4-ad8d-9f5f3833353a" />
+
+
 ---
 
 # 💡 Business Insights
@@ -181,29 +185,6 @@ ecommerce-sales-analysis
     ├── Line Chart Monthly trend.png
     └── Pie-Chart Review Scores.png
 ```
-
-1. Beauty & Health generated the highest revenue (~1.26M), making it the most profitable category.
-Recommendation: Increase marketing spend and inventory for this category.
-
-2. Sales peaked in November 2017, indicating strong seasonal demand.
-Recommendation: Launch promotional campaigns before November to maximize revenue.
-
-3. São Paulo (SP) contributed the highest regional revenue (~5.2M).
-Recommendation: Focus on customer retention while expanding operations to other high-potential states.
-
-4. 57.8% of customers provided 5-star ratings, indicating overall positive customer satisfaction.
-Recommendation: Maintain product quality and delivery standards.
-
-5. Average order value remained relatively stable around 136.68 throughout the analysis period.
-Recommendation: Introduce product bundles and cross-selling strategies to increase order value.
-
-
-Most Surprising Finding
-
-Although Beauty & Health was the highest revenue-generating category, customer reviews showed that nearly 42% of customers still provided ratings below 5 stars. This indicates that even top-selling categories have room for improvement in customer satisfaction. Improving delivery speed and product quality could further increase customer loyalty and revenue.
-
-
-
 ---
 
 ## 👨‍💻 Author
