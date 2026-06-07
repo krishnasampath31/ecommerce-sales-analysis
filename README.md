@@ -191,4 +191,4 @@ ecommerce-sales-analysis
 
 **Krishna Sampath**
 
-Data Analytics Internship Project – Project 01
+Data Analytics Internship Project – Pluto Project 01
