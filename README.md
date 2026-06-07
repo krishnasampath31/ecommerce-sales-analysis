@@ -116,7 +116,7 @@ The following data cleaning steps were performed:
 ![Heatmap](images/Heatmap%20Category%20Vs%20Month.png)
 
 
-![DashboardPowerBi] (<img width="1358" height="822" alt="image" src="https://github.com/user-attachments/assets/83e889bc-e29c-43c4-ad8d-9f5f3833353a" />
+DashboardPowerBi (<img width="1358" height="822" alt="image" src="https://github.com/user-attachments/assets/83e889bc-e29c-43c4-ad8d-9f5f3833353a" />
 
 
 ---
