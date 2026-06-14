@@ -189,6 +189,7 @@ ecommerce-sales-analysis
 
 ## 👨‍💻 Author
 
-**Krishna Sampath**
+**Krishna Sampath Gudla
+**krishnasampathgudla31@gmail.com
 
 Data Analytics Internship Project – Pluto Project 01
